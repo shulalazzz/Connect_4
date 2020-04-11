@@ -1,0 +1,24 @@
+#connect_4 {
+    background-color: rgb(18, 240, 240);
+    display: inline-block;
+    text-align: center;
+  }
+
+  .col{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    background-color: white;
+    border-radius: 50%;
+    margin: 5px;
+  }
+
+  .drop_btn{
+    width: 80px;
+    height: 20px;
+    margin: 5px;
+  }
+
+  .pre_player1{
+    background-color: rgba(255，0，0，0.3);
+  }
